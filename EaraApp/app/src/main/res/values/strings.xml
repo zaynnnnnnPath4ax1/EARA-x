@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EARA</string>
+    <string name="accessibility_service_description">Lets EARA send BACK, HOME, and SCROLL actions from your earbud taps. Does not read screen content.</string>
+</resources>
